@@ -2,12 +2,6 @@
 
 中芯
 
-特斯拉
-马斯克
-
-微软
-Microsoft
-
 英伟达
 NVIDIA
 黄仁勋
@@ -17,11 +11,6 @@ AMD
 谷歌
 google
 gemini
-deepmind
-
-chatgpt
-openai
-sora
 
 ai
 !gai
@@ -33,5 +22,4 @@ ai
 
 芯片
 光刻机
-
 新质生产力
